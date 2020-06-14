@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    padding: 0;
+    background-image: url(../Imagens/fundo.jpeg);
+    background-repeat: space;
+    background-size: contain;
+}
+
+.clear {
+    clear: both;
+    float: left;
+}
+
+/* HEADER */
+.hero1{
+    margin-left: 27%;
+}
+
+.bot1{ 
+    background-color: black;
+     list-style-type: none;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot2{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+.bot3{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot4{ 
+   background-color: black;
+     list-style-type: none;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+.bot5{ 
+   background-color: black;
+     list-style-type: none;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot6{ 
+    background-color: black;
+     list-style-type: none;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot7{ 
+   background-color: black;
+     list-style-type: none;
+    color: white;
+    text-align: center;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 160px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+    
+}
+
+/CONTAINER-BANNER/
+
+.container-banner{
+    padding-top: 60px;
+	width: 100%;
+	height: 100%;
+    background-color: #ccc;
+}
+
+.container-banner p{
+    text-align: center;
+    font-size: 20pt;
+    color: rgb(9, 54, 96,0.7);
+    font-family: 'Raleway', sans-serif;
+    font-variant: small-caps;
+}
+
+.grid-1{
+	width: 100%;
+    height: 805px;
+    margin-top: 0px;
+    text-align: center;
+
+
+}
+
+.grid-1 p{
+    padding: 5px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #ccc;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    font-variant: small-caps;
+}
+
+.grid-2{
+    width: 1280px;
+    height: 500px;
+    margin: 25px auto;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #ccc;
+}
+
+
+.containers1{
+    width: 22.3%;
+    padding: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+    float: left;
+    background-image: url(../Imagens/youtube.jpg);
+    background-repeat: space;
+    background-size: cover;
+}
+.containers2{
+    width: 22.3%;
+    padding: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+    float: left;
+    background-image: url(../Imagens/facebook-removebg-preview.png);
+    background-repeat: space;
+    background-size: cover;
+}
+.containers3{
+    width: 22.3%;
+    padding: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+    float: left;
+    background-image: url(../Imagens/Instagram-Icon.png);
+    background-repeat: space;
+    background-size: cover;
+}
+.containers4{
+    width: 22.3%;
+    padding: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+    float: left;
+    background-image: url(../Imagens/aplicativo.jpg);
+    background-repeat: space;
+    background-size: cover;
+}
+
+.loop{
+    width: 22.3%;
+    margin-top: -15px;
+    margin-left: 30px;
+    padding: 25px;
+    font-size: 20px;
+    float: left;
+    background-color: rgb(177, 182, 186);
+    color: rgb(9, 54, 96);
+    border-radius: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-variant: small-caps;
+    font-weight: bolder ;
+}

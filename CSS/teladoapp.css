@@ -1,0 +1,58 @@
+body{
+    font-family: sans-serif;
+    background-image: url(../../CCR/Imagens/WhatsApp%20Image%202020-06-12%20at%2020.54.03.jpeg);
+    background-repeat: space;
+    background-size: cover;
+}
+.hero nav ul{
+    text-align:end;
+
+
+}
+.bot3{ 
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 160px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+
+.texto{
+    color: black
+    top: 40%;
+    text-align: center;
+    left: 50%;
+    position:absolute;
+    margin-top: 150px;
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+.texto p b{
+font-size: 30px;
+}
+
+
+.hero nav a:hover{
+    background: rgba(0,0,0, 0.3)
+}
+
+img{
+    transform: translate(40%,10%);
+    text-align: end;
+    background-size: cover;
+    height:70px;
+    width: 100px;
+    margin-top:500px;
+    background-size: 10px;
+    margin-right: 10px;
+
+    
+    
+}

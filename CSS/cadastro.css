@@ -1,0 +1,232 @@
+body{
+    font-family: arial, sans-serif;
+    background-image: url(../Imagens/cadastro.jpeg);
+    height:550px;
+    background-position: right center;
+    background-size:  cover;
+    border-bottom: 1px solid transparent;
+    background-repeat: no-repeat;
+    backface-visibility: hidden;
+    color: black;
+    float:none; 
+    display:block; 
+    margin-left:auto; 
+    margin-right:auto;
+
+    
+}
+.login{ 
+    
+    width: 350px;
+    height: 550px;
+    color: #fff;
+    top: 55%;
+    text-align: center;
+    left: 78%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+   padding: 0;
+}
+
+.usuario{
+    background-position: center;
+    background-size: contain;
+    left: 50;
+    margin-top:2px;
+    background-size: 80px;
+    padding: 0;
+    max-width:150px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    
+}
+}
+h1{
+    
+    padding-top:0;
+    padding-left: 0;
+    padding-bottom: 40px;
+    letter-spacing: 40px;
+    left: auto;
+    text-align:center;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px black;
+    width: 30%;
+    
+}
+.login p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    color:black;
+    text-shadow: 2px 2px 4px black;
+   
+}
+.login imput{
+    width: 100%;
+    margin-bottom: 21px;
+}
+.login imput[type="text"], imput[type="password"]{
+    
+    border:none;
+    border-bottom: 1px solid white;
+    background: transparent;
+    outline:none;
+    height: 40px;
+    color: white;
+    font-size: 16px;
+
+
+    
+}
+.login imput[type="submit"]{
+    border:none;
+    outline: none;
+    height: 35px;
+    color: #000;
+    background: #fff;
+    border-radius: 20px;
+    transition: 0.2s;
+    
+    
+}
+.login imput[type="submit"]:hover {
+    cursor:pointer;
+    background: #ff4d4d;
+    transition: 0.2s;
+    
+}
+
+.img{
+    left: 50px;
+    top: 50px;
+    opacity: 0.8;
+    border-radius: 80px 0px 80px 0px;
+    transform: translate(-8%,10%);
+    text-align: end;
+    background-size: cover;
+    right: 800px;
+    width: 900px;
+    margin-top:-260px;
+    background-size: 78px;
+}
+.hero nav ul{
+    text-align:end;
+
+
+}
+.bot1{ 
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot2{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+.bot3{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot4{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+.bot5{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot6{ 
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot7{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 160px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+    
+}
+.texto{
+    color: black;
+    top: 20%;
+    text-align: center;
+    left: 50%;
+    position:absolute;
+    margin-top: 200px;
+    font-size: 20px;
+    margin-left: -20%;
+    right: 30%;
+    float: 50%;
+
+}
+.texto b{  
+    color: darkblue;
+    
+}
+.hero nav a:hover{
+    background: rgba(0,0,0, 0.3)
+}
+
+
+main{ 
+ width: 80%;
+ margin: auto;
+}
+    

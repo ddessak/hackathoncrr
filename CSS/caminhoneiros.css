@@ -1,0 +1,141 @@
+body{ 
+    font-family: sans-serif;
+    background-image: url(../../CCR/Imagens/WhatsApp%20Image%202020-06-13%20at%2017.41.09.jpeg);
+    background-repeat: space;
+    background-size: cover;
+        
+    
+}
+
+
+.hero nav ul{
+    text-align: right;
+
+
+}
+.bot1{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot2{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+.bot3{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+    
+
+}
+.bot4{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+.bot5{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot6{ 
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.bot7{ 
+   background-color: black;
+    color: white;
+    text-align: center;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 160px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
+.img{
+    left: 50%;
+    top: 50p%;
+    opacity: 0.7;
+    transform: translate(-8%,10%);
+    text-align: end;
+    margin-top:-80px;
+    height: 10;
+}
+
+
+.hero nav a:hover{
+    background: rgba(0,0,0, 0.3)
+}
+
+main{ 
+ width: 80%; 
+ margin: auto;
+}
+
+
+
+img{
+    transform: translate(40%,10%);
+    text-align: end;
+    background-size: cover;
+    height:140px;
+    width: 180px;
+    margin-top:5px;
+    background-size: 10px;
+    margin-right: 10px;
+
+    
+    
+    
+}
+
+
+}

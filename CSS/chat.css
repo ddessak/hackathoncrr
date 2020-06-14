@@ -1,0 +1,21 @@
+body{ 
+        background-image: url(../Imagens/suporte.jpeg);
+        background-repeat: no-repeat;
+        background-size: contain;
+       
+        }
+        
+        .bot1{ 
+    background-color: black;
+     list-style-type: none;
+    color: white;
+    text-align: center;
+    margin-right: 0.5%;
+    font-family: arial, sans-serif;
+    text-align: center;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+}
